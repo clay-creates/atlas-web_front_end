@@ -78,16 +78,19 @@ h6 {
     font-weight: var(--font-weight-bold);
 }
 
-a:link {}
+a:link {
+    color: var(--text-color);
+    text-decoration: none;
+}
 
-:any-link:visited {
+a:visited {
     font-style: italic;
 }
 
-:any-link:hover {
+a:hover {
     text-decoration: underline;
 }
 
-:any-link:active {
+a:active {
     background-color: var(--color-light-grey);
 }
