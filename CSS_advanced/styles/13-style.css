@@ -77,3 +77,15 @@ h6 {
     text-transform: var(--section-tagline-transform);
     font-weight: var(--font-weight-bold);
 }
+
+:any-link:visited {
+    font-style: italic;
+}
+
+:any-link:hover {
+    text-decoration: underline;
+}
+
+:any-link:active {
+    background-color: var(--color-light-grey);
+}
