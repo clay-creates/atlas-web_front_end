@@ -63,7 +63,7 @@ h6 {
     color: var(--text-primary);
 }
 
-.section-tile {
+.section-title {
     font-family: var(--font-family-title);
     font-size: var(--font-size-xx-large);
     font-weight: var(--font-weight-bold);
