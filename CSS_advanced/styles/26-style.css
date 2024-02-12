@@ -309,7 +309,7 @@ h6 {
     height: 10rem;
 }
 
-.card-testimonial .card-avatar .cite {
+.card-testimonial .card-avatar cite {
     display: block;
     padding-top: 1rem;
     color: var(--color-primary);
